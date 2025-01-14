@@ -3,6 +3,8 @@
   "advancedMode": "false",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "NGSIM-data-process-for-trajectory-prediction-planning",
+    "On-ramp-merging-decision-making",
+    "QuadraticPlanning-based-Model-Predictive-Control-MPC-"
   ]
 }
