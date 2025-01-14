@@ -1,6 +1,6 @@
 {
   "devMode": "false",
-  "advancedMode": "false",
+  "advancedMode": "True",
   "language": "en-US",
   "repository": [
     "NGSIM-data-process-for-trajectory-prediction-planning",
