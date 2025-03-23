@@ -5,6 +5,7 @@
   "repository": [
     "NGSIM-data-process-for-trajectory-prediction-planning",
     "On-ramp-merging-decision-making",
-    "QuadraticPlanning-based-Model-Predictive-Control-MPC-"
+    "QuadraticPlanning-based-Model-Predictive-Control-MPC-",
+    "PSP-Physical-informed-Sparse-learning-for-interaction-aware-vehicle-trajectory-Prediction"
   ]
 }
